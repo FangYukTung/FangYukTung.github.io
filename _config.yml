@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "NJU undergraduate student from HK"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China, Jiangsu"
+  employer         : "NanJing University"
   uri              : "FangYukTung.github.io" # URL
   email            : "231880023@smail.nju.edu.cn" 
 
