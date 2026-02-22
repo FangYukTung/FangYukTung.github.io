@@ -16,15 +16,15 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
 
 ## Publications
 
+*   **INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**
+    *   **Fang, Y. T. S.**; Shi, Z.; Qiu, J.; Chen, Z.; Shi, J.; Xu, H.; Huo, J.; Gao, Y.
+    *   *Under review*. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971)
 *   **LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments**
     *   Ding, H.; Xu, Z.; **Fang, Y. (Yudong)**; Wu, Y.; Chen, Z.; Shi, J.; Huo, J.; Gao, Y.
     *   *ICRA 2026*. [arXiv:2510.19655](https://arxiv.org/abs/2510.19655)
 *   **SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas**
     *   Ding, H.; Liang, X.; **Fang, Y. (Yudong)**; Wu, Y.; Shi, J.; Huo, J.; Li, W.; Wu, J.; Lai, Y.-K.; Gao, Y.
     *   *Under review*. [arXiv:2510.19766](https://arxiv.org/abs/2510.19766)
-*   **INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**
-    *   **Fang, Y. T. S.**; Shi, Z.; Qiu, J.; Chen, Z.; Shi, J.; Xu, H.; Huo, J.; Gao, Y.
-    *   *Under review*. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971)
 
 ## CV
 
