@@ -1,0 +1,65 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[margin=1.55cm]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+\titleformat{\section}{\small\bfseries}{}{0pt}{}[\vspace{-2pt}\titlerule]
+\titlespacing{\section}{0pt}{6pt}{3pt}
+\setlist[itemize]{leftmargin=*, itemsep=1.5pt, topsep=2pt}
+\newcommand{\sep}{\hspace{0.55em}\textcolor{gray}{|}\hspace{0.55em}}
+\begin{document}
+{\LARGE \textbf{Yuk Tung Samuel Fang}}\\[2pt]
+{\normalsize Also published as: \textbf{Yudong Fang}}\\[-1pt]
+Nanjing University (Suzhou Campus) \sep Hong Kong SAR \sep B.Sc. Intelligent Science and Technology (Exp. 2027)\\[-2pt]
+\faGlobe\ \href{https://fangyuktung.github.io/}{fangyuktung.github.io}
+\sep \faEnvelope\ \href{mailto:231880023@smail.nju.edu.cn}{231880023@smail.nju.edu.cn}
+\section{Research Interests}
+Robotics; perception and inference for embodied systems. Recent experience in navigation and semantic mapping; actively exploring broader directions. Seeking opportunities for overseas graduate studies (Fall 2027 entry).
+\section{Education}
+\textbf{Nanjing University (Suzhou Campus)} \hfill Suzhou, China\\
+B.Sc. Intelligent Science and Technology \hfill Expected 2027
+\begin{itemize}
+  \item \textbf{Total GPA:} 4.44 \sep \textbf{Core GPA:} 4.42 \sep \textbf{Sophomore GPA:} 4.543 \sep \textbf{Rank:} 47/151 (Top 31.2\%)
+  \item \textbf{Selected coursework (scores):} Database Systems (96), Operating Systems (95), Data Structures \& Algorithms (95), Machine Learning (94), Deep Learning (94), Programming Practicum (94.9)
+\end{itemize}
+\section{Research Experience}
+\textbf{Inference \& Learning Research Group} (led by Prof. Yang Gao), Nanjing University\\
+\textbf{State Key Laboratory for Novel Software Technology} \hfill Undergraduate Researcher, 2025--present
+\begin{itemize}
+  \item Supervised by tenure-track AP Prof. Jieqi Shi, who provided guidance on research design, paper writing, and project execution; collaborated closely on prototyping, integration, and manuscript preparation.
+  \item Conducted research in embodied robotics, replicating experiments in navigation and exploration, while also replicating, integrating, and innovating in semantic mapping, with successful deployments on real robots.
+  \item Reproduced and integrated state-of-the-art models (e.g., RAM, SAM3/2, DINOv3/2, Grounded DINO, FM-Fusion, EdgeTAM, VINS-Mono/Fusion, RAG, Clip) for semantic scene understanding and navigation; customized source code for end-to-end pipelines, including MLLM API calls and local deployments.
+  \item Managed ROS bag streaming, real-time data monitoring/visualization, and hardware bring-up across diverse sensor/compute configurations (Jetson AGX Orin with 4$\times$ RealSense D435i, 4$\times$ Gemini 336L, Manifold Odin 1).
+  \item Designed and 3D-printed custom mounting brackets; resolved engineering challenges such as power delivery, bandwidth constraints, port conflicts, and communication stacks (camera $\rightarrow$ compute $\rightarrow$ robot) to enable stable on-robot execution on platforms like Unitree Go1.
+\end{itemize}
+\section{Publications \& Preprints}
+\begin{itemize}
+  \item Ding, H.; Xu, Z.; \textbf{Fang, Y. (Yudong)}; Wu, Y.; Chen, Z.; Shi, J.; Huo, J.; Gao, Y.\\
+  \textbf{LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments.}
+  \textit{ICRA 2026}. \href{https://arxiv.org/abs/2510.19655}{arXiv:2510.19655} \sep \href{https://robo-lavira.github.io/lavira-zs-vln/}{Project Page}\\
+  \textit{Contribution:} Led real-robot deployment (on Unitree Go1) and system integration. (2025.05 -- 2025.09)
+  \item Ding, H.; Liang, X.; \textbf{Fang, Y. (Yudong)}; Wu, Y.; Shi, J.; Huo, J.; Li, W.; Wu, J.; Lai, Y.-K.; Gao, Y.\\
+  \textbf{SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas.}
+  \textit{Under review}. \href{https://arxiv.org/abs/2510.19766}{arXiv:2510.19766} \sep \href{https://robo-lavira.github.io/sea-active-exp/}{Project Page}\\
+  \textit{Contribution:} Led real-robot deployment (on Unitree Go1) and end-to-end integration for on-robot execution. (2025.09 -- 2025.10)
+  \item \textbf{Fang, Y. T. S.}; Shi, Z.; Qiu, J.; Chen, Z.; Shi, J.; Xu, H.; Huo, J.; Gao, Y.\\
+  \textbf{INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval.}\\
+  \textit{Under review}. \href{https://arxiv.org/abs/2602.12971}{arXiv:2602.12971} \sep \href{https://fangyuktung.github.io/INHeritSG.github.io/}{Project Page}\\
+  \textit{Role:} Independent first author; led end-to-end pipeline, writing, figures, experiment design, visualization, supplement, hardware/communication bring-up, and real-robot data collection. (2025.10 -- 2026.02)\\
+  \textit{Team contributions:} Dataset construction, pipeline optimization, baseline adaptation and benchmarking, experiment table data collection, and human-study design/data.
+\end{itemize}
+\section{Honors \& Awards}
+\begin{itemize}
+  \item NJU Scholarship for HK/Macao \& Overseas Chinese Students --- \textbf{First Prize} (Sophomore year; university-wide; 5 awardees; defense required)
+  \item NJU Scholarship for HK/Macao \& Overseas Chinese Students --- \textbf{Third Prize} (Freshman year; university-wide)
+\end{itemize}
+\section{Skills}
+\begin{itemize}
+  \item \textbf{Programming:} Python, C++ \sep \textbf{Robotics:} ROS, real-robot deployment and debugging
+  \item \textbf{Tools:} Linux, Git; proficient with AI-assisted coding tools for rapid prototyping/debugging; 3D modeling \& printing
+\end{itemize}
+\end{document}
