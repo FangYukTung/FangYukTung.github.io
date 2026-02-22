@@ -23,7 +23,7 @@ repository               : "FangYukTung/FangYukTung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "FYD.png"
+  avatar           : "FYD.jpg"
   name             : "Yuk Tung Samuel Fang"
   pronouns         : # example: "she/her"
   bio              : "Undergraduate Student at Nanjing University (Suzhou Campus)"
@@ -31,7 +31,7 @@ author:
   employer         : "Nanjing University"
   uri              : "https://FangYukTung.github.io" # URL
   email            : "231880023@smail.nju.edu.cn"
-  # email2           : "fangyuktungsamuel@gmail.com"
+  email2           : "fangyuktungsamuel@gmail.com"
 
   # Academic websites
   academia         : # URL
