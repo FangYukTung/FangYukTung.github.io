@@ -15,8 +15,7 @@ redirect_from:
 
 *   **Nanjing University (Suzhou Campus)**, Suzhou, China
     *   B.Sc. Intelligent Science and Technology (Expected 2027)
-    *   **GPA:** 4.44 (Total) / 4.42 (Core) / 4.543 (Sophomore)
-    *   **Rank:** 47/151 (Top 31.2%)
+    *   **GPA:** 4.44 (Total) / 4.543 (Sophomore)
     *   **Selected Coursework:** Database Systems (96), Operating Systems (95), Data Structures & Algorithms (95), Machine Learning (94), Deep Learning (94), Programming Practicum (94.9)
 
 ## Research Interests
