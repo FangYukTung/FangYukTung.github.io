@@ -25,7 +25,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
       <h3 style="margin-top: 0; color: #0056b3;">INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval</h3>
     </a>
     <p style="margin-bottom: 5px;">
-      <strong>Yuk Tung Samuel Fang</strong>, Zixuan Shi, Jialong Qiu, Zixuan Chen, Jieqi Shi, Hao Xu, Jing Huo, Yang Gao
+      <strong>Yuk Tung Samuel Fang</strong>, Zhikang Shi, Jiabin Qiu, Zixuan Chen, Jieqi Shi, Hao Xu, Jing Huo, Yang Gao
     </p>
     <p style="font-style: italic; color: #666; margin-bottom: 5px;">
       Under Review
@@ -46,7 +46,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
       <h3 style="margin-top: 0; color: #0056b3;">LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments</h3>
     </a>
     <p style="margin-bottom: 5px;">
-      Haoyue Ding, Zixuan Xu, <strong>Yudong Fang</strong>, Yu Wu, Zixuan Chen, Jieqi Shi, Jing Huo, Yang Gao
+      Hongyu Ding, Ziming Xu, <strong>Yudong Fang</strong>, You Wu, Zixuan Chen, Jieqi Shi, Jing Huo, Yang Gao
     </p>
     <p style="font-style: italic; color: #666; margin-bottom: 5px;">
       IEEE International Conference on Robotics and Automation (ICRA), 2026
@@ -67,7 +67,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
       <h3 style="margin-top: 0; color: #0056b3;">SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas</h3>
     </a>
     <p style="margin-bottom: 5px;">
-      Haoyue Ding, Xinyue Liang, <strong>Yudong Fang</strong>, Yu Wu, Jieqi Shi, Jing Huo, Wei Li, Ji Wu, Yu-Kun Lai, Yang Gao
+      Hongyu Ding, Xinyue Liang, <strong>Yudong Fang</strong>, You Wu, Jieqi Shi, Jing Huo, Wenbin Li, Jing Wu, Yu-Kun Lai, Yang Gao
     </p>
     <p style="font-style: italic; color: #666; margin-bottom: 5px;">
       Under Review
