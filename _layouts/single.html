@@ -45,33 +45,35 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.image %}
+        <div style="text-align: center; margin-bottom: 20px;">
+          <img src="{{ page.image }}" alt="{{ page.title }}" style="max-width: 100%; border-radius: 5px; border: 1px solid #ddd;">
+        </div>
+        {% endif %}
+
+        {% if page.abstract %}
+        <div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #0056b3; margin-bottom: 20px;">
+          <h3 style="margin-top: 0;">Abstract</h3>
+          <p>{{ page.abstract }}</p>
+        </div>
+        {% endif %}
+
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation and page.paperurl and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
-        {% elsif page.citation and page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.paperurl and page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-        {% elsif page.slidesurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+        {% if page.citation %}
+        <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee;">
+          <h4>Recommended citation:</h4>
+          <p style="font-size: 0.9em; background-color: #f0f0f0; padding: 10px; border-radius: 4px;">
+            {{ page.citation }}
+          </p>
+        </div>
         {% endif %}
+        
+        <div style="margin-top: 10px;">
+        {% if page.paperurl %}<a href="{{ page.paperurl }}" class="btn btn--info">Download Paper</a>{% endif %}
+        {% if page.slidesurl %}<a href="{{ page.slidesurl }}" class="btn btn--info">Download Slides</a>{% endif %}
+        {% if page.bibtexurl %}<a href="{{ page.bibtexurl }}" class="btn btn--info">Download Bibtex</a>{% endif %}
+        </div>
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
