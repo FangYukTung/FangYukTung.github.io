@@ -58,27 +58,6 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
   </div>
 </div>
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 0 0 30%;">
-    <img src="/images/sea_teaser.png" alt="SEA Teaser" style="width: 100%; border-radius: 5px; border: 1px solid #ddd;">
-  </div>
-  <div style="flex: 1;">
-    <a href="/publication/2025-10-22-sea" style="text-decoration: none;">
-      <h3 style="margin-top: 0; color: #0056b3;">SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas</h3>
-    </a>
-    <p style="margin-bottom: 5px;">
-      Hongyu Ding, Xinyue Liang, <strong>Yudong Fang</strong>, You Wu, Jieqi Shi, Jing Huo, Wenbin Li, Jing Wu, Yu-Kun Lai, Yang Gao
-    </p>
-    <p style="font-style: italic; color: #666; margin-bottom: 5px;">
-      Under Review
-    </p>
-    <p style="margin-bottom: 0;">
-      <a href="https://arxiv.org/abs/2510.19766" target="_blank">[arXiv]</a>
-      <a href="https://robo-lavira.github.io/sea-active-exp/" target="_blank">[Project Page]</a>
-    </p>
-  </div>
-</div>
-
 ## CV
 
 You can download my full CV here: [Download CV (PDF)](my_CV.pdf)
