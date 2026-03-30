@@ -31,11 +31,6 @@ redirect_from:
     *   *ICRA 2026*. [arXiv:2510.19655](https://arxiv.org/abs/2510.19655) | [Project Page](https://robo-lavira.github.io/lavira-zs-vln/)
     *   *Contribution:* Led real-robot deployment (on Unitree Go1) and system integration.
 
-*   **SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas**
-    *   H. Ding, X. Liang, **Y. Fang (Yudong)**, Y. Wu, J. Shi, J. Huo, W. Li, J. Wu, Y.-K. Lai, Y. Gao
-    *   *Under review*. [arXiv:2510.19766](https://arxiv.org/abs/2510.19766) | [Project Page](https://robo-lavira.github.io/sea-active-exp/)
-    *   *Contribution:* Led real-robot deployment (on Unitree Go1) and end-to-end integration for on-robot execution.
-
 *   **INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**
     *   **Y.T.S. Fang**, Z. Shi, J. Qiu, Z. Chen, J. Shi, H. Xu, J. Huo, Y. Gao
     *   *Under review*. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971) | [Project Page](https://fangyuktung.github.io/INHeritSG.github.io/)
@@ -64,7 +59,6 @@ redirect_from:
 *   Designed an iterative prediction-exploration framework using semantic map prediction to forecast missing areas based on current observations.
 *   Incorporated an ASC-based local mapper for predictions and confidence estimation, alongside RL-based hierarchical policies for two-stage navigation.
 *   Developed a confidence-aware full mapper to accumulate and adjust local maps, guiding exploration via differences between predicted and actual maps.
-*   Outperformed state-of-the-art methods in global map coverage and efficiency on Habitat datasets, achieving a Projected Map Coverage (CovP) of 111.74 m² (+15.6\% over SemExp) and Accurate Semantic Coverage on Projected Map (ASCP) of 49.53 m² (+35.5\% over SemExp) after 500 steps; deployed on Unitree Go1 and Agilex Cobot Magic robots.
 
 ### Incremental Hierarchical Semantic Scene Graphs (INHerit-SG) (2025.10 -- 2026.02)
 *Advisors: Prof. Jieqi Shi, Prof. Hao Xu, Prof. Jing Huo*
