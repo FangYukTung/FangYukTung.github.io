@@ -28,11 +28,13 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
       <strong>Yuk Tung Samuel Fang</strong>, Zhikang Shi, Jiabin Qiu, Zixuan Chen, Jieqi Shi, Hao Xu, Jing Huo, Yang Gao
     </p>
     <p style="font-style: italic; color: #666; margin-bottom: 5px;">
-      Under Review
+      ICRA 2026 Workshop on Robots Meet Prior Maps
+      <span style="display: inline-block; background-color: #b8860b; color: #fff; padding: 1px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; font-style: normal;">🏆 Best Paper Finalist</span>
     </p>
     <p style="margin-bottom: 0;">
       <a href="https://arxiv.org/abs/2602.12971" target="_blank">[arXiv]</a>
       <a href="https://fangyuktung.github.io/INHeritSG.github.io/" target="_blank">[Project Page]</a>
+      <a href="/publication/2026-02-07-inherit-sg#real-robot-demos">[Real-Robot Demos]</a>
     </p>
   </div>
 </div>
@@ -54,6 +56,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
     <p style="margin-bottom: 0;">
       <a href="https://arxiv.org/abs/2510.19655" target="_blank">[arXiv]</a>
       <a href="https://robo-lavira.github.io/lavira-zs-vln/" target="_blank">[Project Page]</a>
+      <a href="/publication/2025-09-16-lavira#real-robot-demos">[Real-Robot Demos]</a>
     </p>
   </div>
 </div>

@@ -15,7 +15,7 @@ redirect_from:
 
 *   **Nanjing University (Suzhou Campus)**, Suzhou, China
     *   B.Sc. Intelligent Science and Technology (Expected 2027)
-    *   **GPA:** 4.45 / 5.00
+    *   **GPA:** 4.48 / 5.00
     *   **Selected Coursework:** Data Mining (95), Database Systems (96), Operating Systems (95), Data Structures & Algorithms (95), Machine Learning (94), Deep Learning (94), Programming Practicum (94.9)
 
 ## Research Interests
@@ -33,7 +33,7 @@ redirect_from:
 
 *   **INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**
     *   **Y.T.S. Fang**, Z. Shi, J. Qiu, Z. Chen, J. Shi, H. Xu, J. Huo, Y. Gao
-    *   *Under review*. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971) | [Project Page](https://fangyuktung.github.io/INHeritSG.github.io/)
+    *   *ICRA 2026 Workshop on Robots Meet Prior Maps*, **Best Paper Finalist**. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971) | [Project Page](https://fangyuktung.github.io/INHeritSG.github.io/)
     *   *Contribution:* Independent first author; led whole end-to-end pipeline, paper writing, figures/tables, experiment design, visualization, supplement, hardware/communication bring-up, and real-robot data collection.
 
 ## Research Experience
