@@ -21,7 +21,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
 <style>
 .demo-reel { display: flex; flex-wrap: wrap; gap: 20px; margin: 12px 0 10px; }
 .demo-card { flex: 1 1 320px; min-width: 280px; }
-.demo-card video { width: 100%; border-radius: 8px; border: 1px solid #ddd; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.10); transition: transform .2s ease, box-shadow .2s ease; }
+.demo-card video { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: #000; border-radius: 8px; border: 1px solid #ddd; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.10); transition: transform .2s ease, box-shadow .2s ease; }
 .demo-card video:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.18); }
 .demo-cap { margin: 10px 0 0; line-height: 1.4; }
 .demo-cap a { color: #0056b3; font-weight: 600; text-decoration: none; }
