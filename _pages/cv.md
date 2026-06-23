@@ -20,8 +20,8 @@ redirect_from:
 
 ## Research Interests
 
-*   Robotics; perception and inference for embodied systems.
-*   Recent experience in navigation and semantic mapping; actively exploring broader directions.
+*   Embodied AI and robotics — perception, spatial memory, and decision-making for reliable action in unstructured real-world environments.
+*   Hands-on experience spanning navigation, semantic mapping, and real-robot deployment.
 *   Seeking opportunities for overseas graduate studies (Fall 2027 entry).
 
 ## Publications & Preprints
@@ -33,10 +33,15 @@ redirect_from:
 
 *   **INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**
     *   **Y.T.S. Fang**, Z. Shi, J. Qiu, Z. Chen, J. Shi, H. Xu, J. Huo, Y. Gao
-    *   *ICRA 2026 Workshop on Robots Meet Prior Maps*, **Best Presentation Finalist**. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971) | [Project Page](https://fangyuktung.github.io/INHeritSG.github.io/)
+    *   *ICRA 2026 Workshop on Robots Meet Prior Maps*, **Oral Presentation, Best Presentation Finalist**. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971) | [Project Page](https://fangyuktung.github.io/INHeritSG.github.io/)
     *   *Contribution:* Independent first author; led whole end-to-end pipeline, paper writing, figures/tables, experiment design, visualization, supplement, hardware/communication bring-up, and real-robot data collection.
 
 ## Research Experience
+
+**Incoming Research Intern** (Summer 2026)
+*National University of Singapore (NUS) — Advisor: Prof. Lin Shao*
+
+*   Incoming summer research in embodied AI.
 
 **Undergraduate Researcher** (2025--present)
 *Inference & Learning Research Group (led by Prof. Yang Gao), State Key Laboratory for Novel Software Technology, Nanjing University*
@@ -59,6 +64,7 @@ redirect_from:
 *   Designed an iterative prediction-exploration framework using semantic map prediction to forecast missing areas based on current observations.
 *   Incorporated an ASC-based local mapper for predictions and confidence estimation, alongside RL-based hierarchical policies for two-stage navigation.
 *   Developed a confidence-aware full mapper to accumulate and adjust local maps, guiding exploration via differences between predicted and actual maps.
+*   Deployed and debugged the full pipeline on Habitat datasets, with real-robot integration on Unitree Go1 and Agilex Cobot Magic platforms.
 
 ### Incremental Hierarchical Semantic Scene Graphs (INHerit-SG) (2025.10 -- 2026.02)
 *Advisors: Prof. Jieqi Shi, Prof. Hao Xu, Prof. Jing Huo*
@@ -70,14 +76,28 @@ redirect_from:
 *   Deployed multi-role Large Language Models (LLMs) to decompose queries into atomic constraints, handle logical negations, and apply hard-to-soft filtering for robust reasoning.
 *   Achieved state-of-the-art results on the HM3DSem-SQR dataset with geometric accuracy of 37.7\% (within 1m, +15\% over DualMap) and semantic accuracy of 70.6\%, real-world trajectory evaluations with 60.0\% success rate (+70\% over baselines). The system also demonstrates scalability for downstream navigation tasks.
 
+## Research in Progress
+
+**Lifelong Mobile-Manipulation Memory Benchmark** (2026.03 -- present)
+
+*   Designing a benchmark that evaluates world-model maintenance under continuous household perturbations, organized around a three-level capability framework (build/organize world model, update under conflicts, memory-guided action). Simulation environment implemented; preliminary method under active development.
+
+**Uncertainty-Aware Interactive Object-Goal Navigation** (2026.06 -- present)
+
+*   Developing a decision framework for when an embodied agent should act, explore, or ask the user, based on two-layer uncertainty modeling and information-gain-driven question generation. Research proposal completed; feasibility validated via baseline (SG-Nav, CoIN-Bench) reproduction.
+
 ## Honors & Awards
 
-*   **First Prize**, NJU Scholarship for HK/Macao & Overseas Chinese Students (Sophomore year; university-wide; 5 awardees; defense required)
+*   **First Prize**, NJU Scholarship for HK/Macao & Overseas Chinese Students (Sophomore year; university-wide; 5 awardees (Top 2%); defense required)
 *   **Third Prize**, NJU Scholarship for HK/Macao & Overseas Chinese Students (Freshman year; university-wide)
+
+## Academic Service
+
+*   Reviewer (by invitation), *IEEE Robotics and Automation Letters* (RA-L), 2026
 
 ## Skills
 
 *   **Programming:** Python (for ML pipelines and ROS integration), C++
 *   **Robotics:** ROS (for data collection across diverse sensors, inter-device communication in complex setups, downstream control via SDKs for dynamic motion planning and execution), real-robot deployment and debugging
-*   **Tools:** Linux, Git; proficient with AI-assisted coding tools (for rapid prototyping, debugging, and iterative development)
+*   **Tools:** Linux, Git; agentic coding workflows (Claude Code / Codex) in remote development for rapid prototyping and project automation
 *   **Hardware:** 3D modeling & printing (custom fixtures for sensor integration); sensor/compute configurations (possess hands-on experience with various commonly used robot cameras)

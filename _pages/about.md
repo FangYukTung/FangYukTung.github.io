@@ -10,9 +10,16 @@ redirect_from:
 
 I am a junior undergraduate student majoring in Intelligent Science and Technology at Nanjing University (Suzhou Campus). I come from Hong Kong. I am currently seeking opportunities for overseas graduate studies (Fall 2027 entry).
 
-I have research experience in **Navigation** and **Mapping**, and I am currently exploring broader research interests in **Robotics**.
+My research centers on **Embodied AI and robotics** — perception, spatial memory, and decision-making that let robots act reliably in unstructured real-world environments. I have hands-on experience across **navigation**, **semantic mapping**, and **real-robot deployment**, and I am currently exploring **lifelong robot memory** and **uncertainty-aware interactive navigation**.
 
-I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Reasoning and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University.
+I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Reasoning and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. In **Summer 2026**, I will join the **National University of Singapore (NUS)** as a research intern with [Prof. Lin Shao](https://linsats.github.io/), working on embodied AI.
+
+## News
+
+- **[Summer 2026]** Incoming Research Intern at the **National University of Singapore (NUS)**, advised by [Prof. Lin Shao](https://linsats.github.io/) — embodied AI.
+- **[2026]** Invited to serve as a **Reviewer for IEEE Robotics and Automation Letters (RA-L)**.
+- **[2026]** **INHerit-SG** selected for **Oral Presentation** and named a **Best Presentation Finalist** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
+- **[2026]** **LaViRA** accepted to **ICRA 2026**.
 
 ## Publications
 
@@ -28,7 +35,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
       <strong>Yuk Tung Samuel Fang</strong>, Zhikang Shi, Jiabin Qiu, Zixuan Chen, Jieqi Shi, Hao Xu, Jing Huo, Yang Gao
     </p>
     <p style="font-style: italic; color: #666; margin-bottom: 5px;">
-      ICRA 2026 Workshop on Robots Meet Prior Maps
+      ICRA 2026 Workshop on Robots Meet Prior Maps (Oral)
       <span style="display: inline-block; background-color: #b8860b; color: #fff; padding: 1px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; font-style: normal;">🏆 Best Presentation Finalist</span>
     </p>
     <p style="margin-bottom: 0;">
@@ -87,7 +94,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
     </video>
     <p class="demo-cap">
       <a href="/publication/2026-02-07-inherit-sg">INHerit-SG</a>
-      <span class="demo-tag gold">🏆 Best Presentation Finalist</span><br>
+      <span class="demo-tag gold">🏆 Oral · Best Presentation Finalist</span><br>
       <span class="demo-sub">Hierarchical semantic scene graphs · led real-robot data collection</span>
     </p>
   </div>
