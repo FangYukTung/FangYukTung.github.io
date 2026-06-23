@@ -17,9 +17,10 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
 ## News
 
 - **[Summer 2026]** Incoming Research Intern at the **National University of Singapore (NUS)**, advised by [Prof. Lin Shao](https://linsats.github.io/) — embodied AI.
-- **[2026]** Invited to serve as a **Reviewer for IEEE Robotics and Automation Letters (RA-L)**.
-- **[2026]** **INHerit-SG** selected for **Oral Presentation** and named a **Best Presentation Finalist** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
-- **[2026]** **LaViRA** accepted to **ICRA 2026**.
+- **[2026.06]** **INHerit-SG** named a **Best Presentation Finalist** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
+- **[2026.06]** Invited to serve as a **Reviewer for IEEE Robotics and Automation Letters (RA-L)**.
+- **[2026.05]** **INHerit-SG** selected for **Oral Presentation** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
+- **[2026.01]** **LaViRA** accepted to **ICRA 2026**.
 
 ## Publications
 
