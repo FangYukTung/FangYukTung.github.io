@@ -33,7 +33,7 @@ redirect_from:
 
 *   **INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**
     *   **Y.T.S. Fang**, Z. Shi, J. Qiu, Z. Chen, J. Shi, H. Xu, J. Huo, Y. Gao
-    *   *ICRA 2026 Workshop on Robots Meet Prior Maps*, **Best Paper Finalist**. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971) | [Project Page](https://fangyuktung.github.io/INHeritSG.github.io/)
+    *   *ICRA 2026 Workshop on Robots Meet Prior Maps*, **Best Presentation Finalist**. [arXiv:2602.12971](https://arxiv.org/abs/2602.12971) | [Project Page](https://fangyuktung.github.io/INHeritSG.github.io/)
     *   *Contribution:* Independent first author; led whole end-to-end pipeline, paper writing, figures/tables, experiment design, visualization, supplement, hardware/communication bring-up, and real-robot data collection.
 
 ## Research Experience

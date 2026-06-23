@@ -29,7 +29,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
     </p>
     <p style="font-style: italic; color: #666; margin-bottom: 5px;">
       ICRA 2026 Workshop on Robots Meet Prior Maps
-      <span style="display: inline-block; background-color: #b8860b; color: #fff; padding: 1px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; font-style: normal;">🏆 Best Paper Finalist</span>
+      <span style="display: inline-block; background-color: #b8860b; color: #fff; padding: 1px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; font-style: normal;">🏆 Best Presentation Finalist</span>
     </p>
     <p style="margin-bottom: 0;">
       <a href="https://arxiv.org/abs/2602.12971" target="_blank">[arXiv]</a>
@@ -87,7 +87,7 @@ I am currently an undergraduate researcher working with Associate Professor [Jie
     </video>
     <p class="demo-cap">
       <a href="/publication/2026-02-07-inherit-sg">INHerit-SG</a>
-      <span class="demo-tag gold">🏆 Best Paper Finalist</span><br>
+      <span class="demo-tag gold">🏆 Best Presentation Finalist</span><br>
       <span class="demo-sub">Hierarchical semantic scene graphs · led real-robot data collection</span>
     </p>
   </div>
