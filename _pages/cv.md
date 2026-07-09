@@ -38,10 +38,10 @@ redirect_from:
 
 ## Research Experience
 
-**Incoming Research Intern** (Summer 2026)
+**Research Intern** (2026.07--present)
 *National University of Singapore (NUS) — Advisor: Prof. Lin Shao*
 
-*   Incoming summer research in embodied AI.
+*   Working onsite on long-horizon mobile manipulation and embodied agent evaluation.
 
 **Undergraduate Researcher** (2025--present)
 *Inference & Learning Research Group (led by Prof. Yang Gao), State Key Laboratory for Novel Software Technology, Nanjing University*

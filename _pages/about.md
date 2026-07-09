@@ -12,11 +12,11 @@ I am a junior undergraduate student majoring in Intelligent Science and Technolo
 
 My research centers on **Embodied AI and robotics** — perception, spatial memory, and decision-making that let robots act reliably in unstructured real-world environments. I have hands-on experience across **navigation**, **semantic mapping**, and **real-robot deployment**, and I am currently exploring **lifelong robot memory** and **uncertainty-aware interactive navigation**.
 
-I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Reasoning and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. In **Summer 2026**, I will join the **National University of Singapore (NUS)** as a research intern with [Prof. Lin Shao](https://linsats.github.io/), working on embodied AI.
+I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Reasoning and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I am currently a research intern at the **National University of Singapore (NUS)**, working with [Prof. Lin Shao](https://linsats.github.io/) on long-horizon mobile manipulation and embodied agent evaluation.
 
 ## News
 
-- **[Summer 2026]** Incoming Research Intern at the **National University of Singapore (NUS)**, advised by [Prof. Lin Shao](https://linsats.github.io/) — embodied AI.
+- **[2026.07]** Joined **NUS** as an onsite Research Intern with [Prof. Lin Shao](https://linsats.github.io/), working on long-horizon mobile manipulation and embodied AI.
 - **[2026.06]** Invited to serve as a **Reviewer for IEEE Robotics and Automation Letters (RA-L)**.
 - **[2026.06]** **INHerit-SG** named a **Best Presentation Finalist** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
 - **[2026.05]** **INHerit-SG** selected for **Oral Presentation** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
