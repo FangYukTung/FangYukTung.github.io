@@ -12,7 +12,7 @@ I am a junior undergraduate student majoring in Intelligent Science and Technolo
 
 My research centers on **Embodied AI and robotics** — perception, spatial memory, and decision-making that let robots act reliably in unstructured real-world environments. I have hands-on experience across **navigation**, **semantic mapping**, and **real-robot deployment**, and I am currently exploring **lifelong robot memory** and **uncertainty-aware interactive navigation**.
 
-I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Reasoning and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I am currently a research intern at the **National University of Singapore (NUS)**, working with [Prof. Lin Shao](https://linsats.github.io/) on long-horizon mobile manipulation and embodied agent evaluation.
+I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Reasoning and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I am also working onsite as a research intern at the **National University of Singapore (NUS)** with [Prof. Lin Shao](https://linsats.github.io/) on long-horizon mobile manipulation and embodied agent evaluation.
 
 ## News
 

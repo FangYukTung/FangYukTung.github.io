@@ -1,65 +1,120 @@
-\documentclass[10pt,a4paper]{article}
-\usepackage[margin=1.55cm]{geometry}
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1.4cm]{geometry}
 \usepackage[hidelinks]{hyperref}
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{xcolor}
 \usepackage{fontawesome5}
+
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{2pt}
+\setlength{\parskip}{1.5pt}
+\pagestyle{plain}
 \titleformat{\section}{\small\bfseries}{}{0pt}{}[\vspace{-2pt}\titlerule]
-\titlespacing{\section}{0pt}{6pt}{3pt}
-\setlist[itemize]{leftmargin=*, itemsep=1.5pt, topsep=2pt}
-\newcommand{\sep}{\hspace{0.55em}\textcolor{gray}{|}\hspace{0.55em}}
+\titlespacing{\section}{0pt}{5pt}{2pt}
+\setlist[itemize]{leftmargin=*, itemsep=1pt, topsep=1.5pt, parsep=0pt, partopsep=0pt}
+\newcommand{\sep}{\hspace{0.5em}\textcolor{gray}{|}\hspace{0.5em}}
+\newcommand{\project}[2]{\textbf{#1}\hfill #2\\[-1pt]}
+\newcommand{\advisors}[1]{\textit{Advisors: #1}\\[-2pt]}
+
 \begin{document}
+
 {\LARGE \textbf{Yuk Tung Samuel Fang}}\\[2pt]
 {\normalsize Also published as: \textbf{Yudong Fang}}\\[-1pt]
 Nanjing University (Suzhou Campus) \sep Hong Kong SAR \sep B.Sc. Intelligent Science and Technology (Exp. 2027)\\[-2pt]
 \faGlobe\ \href{https://fangyuktung.github.io/}{fangyuktung.github.io}
 \sep \faEnvelope\ \href{mailto:231880023@smail.nju.edu.cn}{231880023@smail.nju.edu.cn}
+
 \section{Research Interests}
-Robotics; perception and inference for embodied systems. Recent experience in navigation and semantic mapping; actively exploring broader directions. Seeking opportunities for overseas graduate studies (Fall 2027 entry).
+Embodied AI and robotics, with a focus on perception, spatial memory, and decision-making for reliable action in unstructured real-world environments. Experience in navigation, semantic mapping, and real-robot deployment.
+
 \section{Education}
 \textbf{Nanjing University (Suzhou Campus)} \hfill Suzhou, China\\
 B.Sc. Intelligent Science and Technology \hfill Expected 2027
 \begin{itemize}
-  \item \textbf{Total GPA:} 4.44 \sep \textbf{Core GPA:} 4.42 \sep \textbf{Sophomore GPA:} 4.543 \sep \textbf{Rank:} 47/151 (Top 31.2\%)
-  \item \textbf{Selected coursework (scores):} Database Systems (96), Operating Systems (95), Data Structures \& Algorithms (95), Machine Learning (94), Deep Learning (94), Programming Practicum (94.9)
+  \item \textbf{GPA:} 4.47/5.00 \sep \textbf{Major GPA:} 4.45/5.00
+  \item \textbf{Selected coursework:} Data Mining (95), Database Systems (96), Operating Systems (95), Data Structures \& Algorithms (95), Machine Learning (94), Deep Learning (94), Programming Practicum (94.9)
 \end{itemize}
-\section{Research Experience}
-\textbf{Inference \& Learning Research Group} (led by Prof. Yang Gao), Nanjing University\\
-\textbf{State Key Laboratory for Novel Software Technology} \hfill Undergraduate Researcher, 2025--present
-\begin{itemize}
-  \item Supervised by tenure-track AP Prof. Jieqi Shi, who provided guidance on research design, paper writing, and project execution; collaborated closely on prototyping, integration, and manuscript preparation.
-  \item Conducted research in embodied robotics, replicating experiments in navigation and exploration, while also replicating, integrating, and innovating in semantic mapping, with successful deployments on real robots.
-  \item Reproduced and integrated state-of-the-art models (e.g., RAM, SAM3/2, DINOv3/2, Grounded DINO, FM-Fusion, EdgeTAM, VINS-Mono/Fusion, RAG, Clip) for semantic scene understanding and navigation; customized source code for end-to-end pipelines, including MLLM API calls and local deployments.
-  \item Managed ROS bag streaming, real-time data monitoring/visualization, and hardware bring-up across diverse sensor/compute configurations (Jetson AGX Orin with 4$\times$ RealSense D435i, 4$\times$ Gemini 336L, Manifold Odin 1).
-  \item Designed and 3D-printed custom mounting brackets; resolved engineering challenges such as power delivery, bandwidth constraints, port conflicts, and communication stacks (camera $\rightarrow$ compute $\rightarrow$ robot) to enable stable on-robot execution on platforms like Unitree Go1.
-\end{itemize}
+
 \section{Publications \& Preprints}
 \begin{itemize}
-  \item Ding, H.; Xu, Z.; \textbf{Fang, Y. (Yudong)}; Wu, Y.; Chen, Z.; Shi, J.; Huo, J.; Gao, Y.\\
-  \textbf{LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments.}
-  \textit{ICRA 2026}. \href{https://arxiv.org/abs/2510.19655}{arXiv:2510.19655} \sep \href{https://robo-lavira.github.io/lavira-zs-vln/}{Project Page}\\
-  \textit{Contribution:} Led real-robot deployment (on Unitree Go1) and system integration. (2025.05 -- 2025.09)
-  \item Ding, H.; Liang, X.; \textbf{Fang, Y. (Yudong)}; Wu, Y.; Shi, J.; Huo, J.; Li, W.; Wu, J.; Lai, Y.-K.; Gao, Y.\\
-  \textbf{SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas.}
-  \textit{Under review}. \href{https://arxiv.org/abs/2510.19766}{arXiv:2510.19766} \sep \href{https://robo-lavira.github.io/sea-active-exp/}{Project Page}\\
-  \textit{Contribution:} Led real-robot deployment (on Unitree Go1) and end-to-end integration for on-robot execution. (2025.09 -- 2025.10)
   \item \textbf{Fang, Y. T. S.}; Shi, Z.; Qiu, J.; Chen, Z.; Shi, J.; Xu, H.; Huo, J.; Gao, Y.\\
   \textbf{INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval.}\\
-  \textit{Under review}. \href{https://arxiv.org/abs/2602.12971}{arXiv:2602.12971} \sep \href{https://fangyuktung.github.io/INHeritSG.github.io/}{Project Page}\\
-  \textit{Role:} Independent first author; led end-to-end pipeline, writing, figures, experiment design, visualization, supplement, hardware/communication bring-up, and real-robot data collection. (2025.10 -- 2026.02)\\
-  \textit{Team contributions:} Dataset construction, pipeline optimization, baseline adaptation and benchmarking, experiment table data collection, and human-study design/data.
+  \textit{ICRA 2026 Workshop on Robots Meet Prior Maps}, \textbf{Oral Presentation, Best Presentation Finalist}.\\
+  \href{https://arxiv.org/abs/2602.12971}{arXiv:2602.12971} \sep
+  \href{https://fangyuktung.github.io/INHeritSG.github.io/}{Project Page}\\
+  \textit{Contribution:} First author and project lead; led the end-to-end system development, experiment design, manuscript preparation, and real-robot evaluation.
+
+  \item Ding, H.; Xu, Z.; \textbf{Fang, Y. (Yudong)}; Wu, Y.; Chen, Z.; Shi, J.; Huo, J.; Zhang, Y.; Gao, Y.\\
+  \textbf{LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments.}\\
+  \textit{IEEE International Conference on Robotics and Automation (ICRA), 2026}.
+  \href{https://arxiv.org/abs/2510.19655}{arXiv:2510.19655} \sep
+  \href{https://robo-lavira.github.io/lavira-zs-vln/}{Project Page}\\
+  \textit{Contribution:} Led real-robot deployment on Unitree Go1 and system integration.
 \end{itemize}
+
+\section{Research Experience}
+\textbf{Research Intern, National University of Singapore (NUS)} \hfill 2026.07--present\\[-1pt]
+\textit{Advisor: Prof. Lin Shao}
+\begin{itemize}
+  \item Working onsite on long-horizon mobile manipulation and embodied agent evaluation.
+\end{itemize}
+
+\textbf{Undergraduate Researcher, Nanjing University} \hfill 2025--present\\[-1pt]
+\textit{Inference \& Learning Research Group (led by Prof. Yang Gao), State Key Laboratory for Novel Software Technology}\\[-1pt]
+\textit{Advisor: Prof. Jieqi Shi}
+
+\project{Incremental Hierarchical Semantic Scene Graphs (INHerit-SG)}{2025.10--2026.02}
+\advisors{Prof. Jieqi Shi, Prof. Hao Xu, Prof. Jing Huo}
+\begin{itemize}
+  \item First author and project lead; led the end-to-end system development, experiment design, manuscript preparation, and real-robot evaluation.
+  \item Introduced an online Floor-Room-Area-Object hierarchy with RAG-style retrieval, natural-language semantic anchors, and event-triggered updates for long-term consistency.
+  \item Constructed HM3DSem-SQR and a human-study dataset; achieved 37.7\% geometric accuracy (within 1 m), 70.6\% semantic accuracy, and 60.0\% real-world trajectory success.
+\end{itemize}
+
+\project{Zero-Shot Vision-and-Language Navigation (LaViRA)}{2025.05--2025.09}
+\advisors{Prof. Jieqi Shi, Prof. Jing Huo}
+\begin{itemize}
+  \item Developed a coarse-to-fine hierarchy that translates language plans into visually grounded actions and precise robot controls for zero-shot VLN-CE.
+  \item Achieved 38.3\% Success Rate and 28.3\% SPL with Gemini-2.5-Pro; led real-robot deployment and system integration on Unitree Go1 and AgileX Cobot Magic.
+\end{itemize}
+
+\newpage
+\section{Research Experience (continued)}
+
+\project{Active Exploration with Semantic Map Prediction (SEA)}{2025.09--2025.10}
+\advisors{Prof. Jieqi Shi, Prof. Jing Huo}
+\begin{itemize}
+  \item Developed an iterative prediction-exploration framework with confidence-aware semantic map updates and hierarchical navigation policies.
+  \item Deployed and debugged the full Habitat pipeline with real-robot integration on Unitree Go1 and AgileX Cobot Magic.
+\end{itemize}
+
+\section{Research in Progress}
+\project{Lifelong Mobile-Manipulation Memory Benchmark}{2026.03--present}
+\begin{itemize}
+  \item Designing a benchmark for world-model maintenance under continuous household perturbations, covering model construction, conflict-aware updates, and memory-guided action; simulation environment implemented.
+\end{itemize}
+
+\project{Uncertainty-Aware Interactive Object-Goal Navigation}{2026.06--present}
+\begin{itemize}
+  \item Developing a framework for deciding when an agent should act, explore, or ask the user using uncertainty modeling and information gain; validated feasibility through baseline reproduction.
+\end{itemize}
+
 \section{Honors \& Awards}
 \begin{itemize}
-  \item NJU Scholarship for HK/Macao \& Overseas Chinese Students --- \textbf{First Prize} (Sophomore year; university-wide; 5 awardees; defense required)
+  \item NJU Scholarship for HK/Macao \& Overseas Chinese Students --- \textbf{First Prize} (Sophomore year; university-wide; 5 awardees, Top 2\%; defense required)
   \item NJU Scholarship for HK/Macao \& Overseas Chinese Students --- \textbf{Third Prize} (Freshman year; university-wide)
 \end{itemize}
+
+\section{Academic Service}
+\begin{itemize}
+  \item Reviewer (by invitation), \textit{IEEE Robotics and Automation Letters} (RA-L), 2026
+\end{itemize}
+
 \section{Skills}
 \begin{itemize}
-  \item \textbf{Programming:} Python, C++ \sep \textbf{Robotics:} ROS, real-robot deployment and debugging
-  \item \textbf{Tools:} Linux, Git; proficient with AI-assisted coding tools for rapid prototyping/debugging; 3D modeling \& printing
+  \item \textbf{Programming:} Python, C++ \sep \textbf{Frameworks \& Tools:} PyTorch, Linux, Git
+  \item \textbf{Robotics \& Simulation:} ROS, Habitat, AI2-THOR/ProcTHOR, real-robot deployment and debugging
+  \item \textbf{Hardware:} Unitree Go1, AgileX Cobot Magic, Jetson AGX Orin, RealSense D435i, Gemini 336L, Manifold Odin 1; 3D modeling and printing
 \end{itemize}
+
 \end{document}
