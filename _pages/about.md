@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate student majoring in Intelligent Science and Technology at Nanjing University (Suzhou Campus). I come from Hong Kong. I am currently seeking opportunities for overseas graduate studies (Fall 2027 entry).
+I am an undergraduate student majoring in Intelligent Science and Technology at Nanjing University. I come from Hong Kong and am currently seeking opportunities for overseas graduate studies (Fall 2027 entry).
 
-My research centers on **Embodied AI and robotics** — perception, spatial memory, and decision-making that let robots act reliably in unstructured real-world environments. I have hands-on experience across **navigation**, **semantic mapping**, and **real-robot deployment**, and I am currently exploring **lifelong robot memory** and **uncertainty-aware interactive navigation**.
+My research focuses on embodied AI and robotics, particularly how robots build, maintain, and use semantic and spatial representations of changing environments. I am interested in persistent embodied memory and its role in supporting reliable long-horizon navigation and manipulation under partial observability.
 
-I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Reasoning and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I am also working onsite as a research intern at the **National University of Singapore (NUS)** with [Prof. Lin Shao](https://linsats.github.io/) on long-horizon mobile manipulation and embodied agent evaluation.
+I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Inference and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I am also working onsite as a summer research intern at the **LINS Lab, National University of Singapore (NUS)** with [Prof. Lin Shao](https://linsats.github.io/) on life-long mobile manipulation and embodied memory evaluation.
 
 ## News
 
-- **[2026.07]** Joined **NUS** as an onsite Research Intern with [Prof. Lin Shao](https://linsats.github.io/), working on long-horizon mobile manipulation and embodied AI.
+- **[2026.07]** Joined the **LINS Lab at NUS** as an onsite Summer Research Intern with [Prof. Lin Shao](https://linsats.github.io/), working on life-long mobile manipulation and embodied memory evaluation.
 - **[2026.06]** Invited to serve as a **Reviewer for IEEE Robotics and Automation Letters (RA-L)**.
 - **[2026.06]** **INHerit-SG** named a **Best Presentation Finalist** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
 - **[2026.05]** **INHerit-SG** selected for **Oral Presentation** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
