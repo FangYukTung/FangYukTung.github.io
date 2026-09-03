@@ -12,10 +12,11 @@ I am an undergraduate student majoring in Intelligent Science and Technology at 
 
 My research focuses on embodied AI and robotics, particularly how robots build, maintain, and use **3D structured scene representations** of changing environments. I am interested in persistent embodied memory and its role in supporting reliable long-horizon navigation and manipulation under partial observability.
 
-I am currently an undergraduate researcher working with Prof. [Jieqi Shi](https://jayceeshi.github.io/) in the **Inference and Learning Research Group**, led by Prof. [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I am also working onsite as a summer research intern at the **LINS Lab, National University of Singapore (NUS)** with [Prof. Lin Shao](https://linsats.github.io/) on life-long mobile manipulation and embodied memory evaluation.
+I am currently an undergraduate researcher working with Prof. [Jieqi Shi](https://jayceeshi.github.io/) in the **Inference and Learning Research Group**, led by Prof. [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I will soon join **Mondo Robotics** as a Research Intern under the supervision of [Prof. Hao Xu](https://www.xuhao1.me/).
 
 ## News
 
+- **[2026.09]** Will soon join **Mondo Robotics** as a Research Intern under the supervision of [Prof. Hao Xu](https://www.xuhao1.me/).
 - **[2026.07]** Joined the **LINS Lab at NUS** as an onsite Summer Research Intern with [Prof. Lin Shao](https://linsats.github.io/), working on life-long mobile manipulation and embodied memory evaluation.
 - **[2026.06]** Invited to serve as a **Reviewer for IEEE Robotics and Automation Letters (RA-L)**.
 - **[2026.06]** **INHerit-SG** named a **Best Presentation Finalist** at the ICRA 2026 Workshop on Robots Meet Prior Maps.
