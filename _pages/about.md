@@ -12,7 +12,7 @@ I am an undergraduate student majoring in Intelligent Science and Technology at 
 
 My research focuses on embodied AI and robotics, particularly how robots build, maintain, and use **3D structured scene representations** of changing environments. I am interested in persistent embodied memory and its role in supporting reliable long-horizon navigation and manipulation under partial observability.
 
-I am currently an undergraduate researcher working with Associate Professor [Jieqi Shi](https://jayceeshi.github.io/) in the **Inference and Learning Research Group**, led by Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I am also working onsite as a summer research intern at the **LINS Lab, National University of Singapore (NUS)** with [Prof. Lin Shao](https://linsats.github.io/) on life-long mobile manipulation and embodied memory evaluation.
+I am currently an undergraduate researcher working with Prof. [Jieqi Shi](https://jayceeshi.github.io/) in the **Inference and Learning Research Group**, led by Prof. [Yang Gao](https://cs.nju.edu.cn/gaoyang/) at the **State Key Laboratory for Novel Software Technology**, Nanjing University. I am also working onsite as a summer research intern at the **LINS Lab, National University of Singapore (NUS)** with [Prof. Lin Shao](https://linsats.github.io/) on life-long mobile manipulation and embodied memory evaluation.
 
 ## News
 
