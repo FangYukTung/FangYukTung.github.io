@@ -60,7 +60,7 @@ I am currently an undergraduate researcher working with Prof. [Jieqi Shi](https:
       Hongyu Ding, Ziming Xu, <strong>Yudong Fang</strong>, You Wu, Zixuan Chen, Jieqi Shi, Jing Huo, Yang Gao
     </p>
     <p style="font-style: italic; color: #666; margin-bottom: 5px;">
-      IEEE International Conference on Robotics and Automation (ICRA), 2026
+      IEEE International Conference on Robotics and Automation <span class="demo-tag blue" style="font-style: normal;">ICRA 2026</span>
     </p>
     <p style="margin-bottom: 0;">
       <a href="https://arxiv.org/abs/2510.19655" target="_blank">[arXiv]</a>
