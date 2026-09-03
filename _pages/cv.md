@@ -14,8 +14,8 @@ redirect_from:
 ## Education
 
 *   **Nanjing University**, Suzhou, China
-    *   B.Sc. in Intelligent Science and Technology (Expected Jun. 2027)
-    *   **GPA:** 4.47 / 5.00
+    *   B.Sc. in Intelligence Science and Technology (Expected Jun. 2027)
+    *   **GPA:** 4.48 / 5.00
     *   **Selected Coursework:** Database (96), Data Structures and Algorithms (95), Data Mining (95), Operating Systems (95), Programming Training (94.9), Machine Learning (94), Deep Learning (94)
 
 ## Research Interests

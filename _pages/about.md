@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in Intelligent Science and Technology at Nanjing University. I come from Hong Kong and am currently seeking opportunities for overseas graduate studies (Fall 2027 entry).
+I am an undergraduate student majoring in Intelligence Science and Technology at Nanjing University. I come from Hong Kong and am currently seeking opportunities for overseas graduate studies (Fall 2027 entry).
 
 My research focuses on embodied AI and robotics, particularly how robots build, maintain, and use **3D structured scene representations** of changing environments. I am interested in persistent embodied memory and its role in supporting reliable long-horizon navigation and manipulation under partial observability.
 
